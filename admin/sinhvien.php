@@ -74,7 +74,7 @@
     <div class="row" id="thongtinad" style="margin:0">
     <div class="hidden-xs col-sm-3 col-md-3 col-lg-3">
       <div class="thongtinad">
-        <img src="../images/banner.jpg" alt="Ảnh bìa">
+        <img src="../images/bannerr.jpg" alt="Ảnh bìa">
         <img src="../images/<?php echo $_SESSION["avatar"]; ?>" class="avatar" alt="Ảnh đại diện">
         <a href="../index.php"><p><?php echo $_SESSION["tensv"]; ?></p></a>
       </div>
